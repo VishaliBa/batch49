@@ -6,6 +6,7 @@ public class PracticeSwitch {
                 System.out.println("31 days");
                 System.out.println("transpose");
                 System.out.println("vishali");
+                System.out.println("Bagga");
 
 
         }
