@@ -4,6 +4,10 @@ public class PracticeSwitch {
         switch (month) {
             case 1 :
                 System.out.println("31 days");
+                System.out.println("transpose");
+                System.out.println("vishali");
+
+
         }
     }
 }
