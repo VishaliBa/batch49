@@ -3,13 +3,13 @@ import java.util.Scanner;
 public class PracticeArray {
    static Scanner sc = new Scanner(System.in);
 
+
+
     public static void main(String[] args) {
       // create n array (use scanner) you have to find total marks OF THE STUDENTS
       //    Syntax
         // int[] arr = {1,2,3};
         //int[] arr1= new int[5];
-
-
 
         int[] arr2= new int[]{1,2,4,4};
          for(int i=0; i<arr2.length; i++){
