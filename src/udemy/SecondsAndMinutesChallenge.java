@@ -1,4 +1,4 @@
-package exercise.oops;
+package udemy;
 public class SecondsAndMinutesChallenge {
     public static String getDurationString(long minutes, long seconds) { // 65 min, 45 sec
         if (minutes < 0 && (seconds < 0 || seconds < 59)) {

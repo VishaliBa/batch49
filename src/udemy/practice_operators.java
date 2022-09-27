@@ -1,3 +1,5 @@
+package udemy;
+
 public class practice_operators {
     public static void main(String[] args) {
         double valueOne = 20.00;

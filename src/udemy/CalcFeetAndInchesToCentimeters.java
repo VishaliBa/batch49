@@ -1,4 +1,4 @@
-package exercise;
+package udemy;
 
 public class CalcFeetAndInchesToCentimeters {
     public static double main(double feet , double inches) {

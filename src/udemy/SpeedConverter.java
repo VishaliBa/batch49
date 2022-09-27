@@ -1,4 +1,4 @@
-package exercise;
+package udemy;
 
 public class SpeedConverter {
     public static long toMilesPerHour(double kilometersPerHour) {

@@ -1,11 +1,10 @@
+package udemy;
+
 public class IntEqualityPrinter {
     public static void main(String[] args) {
-    printEqual(1,1,1);
+    printEqual(-1,1,1);
 
     }
-
-    // CORRECT BUT NOT RUNNING AT SITE
-
 
     public static void printEqual(int one, int two, int three) {
         if (one < 0  && two < 0 && three < 0){

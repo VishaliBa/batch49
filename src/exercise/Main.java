@@ -1,7 +1,6 @@
 package exercise;
 
-import exercise.SpeedConverter;
-import exercise.oops.SecondsAndMinutesChallenge;
+import udemy.SecondsAndMinutesChallenge;
 
 public class Main {
     public static void main(String[] args) {

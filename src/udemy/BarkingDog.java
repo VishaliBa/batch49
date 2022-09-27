@@ -1,4 +1,4 @@
-package exercise;
+package udemy;
 
 public class BarkingDog {
 

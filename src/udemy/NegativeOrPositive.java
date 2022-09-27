@@ -1,4 +1,4 @@
-//   2. Check if number is positive or negative
+package udemy;//   2. Check if number is positive or negative
 
 import java.util.Scanner;
 public class NegativeOrPositive {
